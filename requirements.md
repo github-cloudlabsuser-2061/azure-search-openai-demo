@@ -1,0 +1,12 @@
+## Docs
+
+The backend application has several dependencies which are listed in the `requirements.txt` file. Here's a brief overview:
+
+1. `django==3.2.5` - The web framework for perfectionists with deadlines.
+2. `djangorestframework==3.12.4` - A powerful and flexible toolkit for building Web APIs.
+3. `gunicorn==20.1.0` - A Python WSGI HTTP Server for UNIX.
+4. `psycopg2-binary==2.8.6` - PostgreSQL database adapter for Python.
+5. `python-dotenv==0.17.1` - Reads the key-value pair from .env file and adds them to environment variable.
+6. `whitenoise==5.2.0` - Radically simplified static file serving for Python web apps.
+
+Please refer to the `requirements.txt` file in the `backend` directory for the complete list.
